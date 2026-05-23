@@ -1,14 +1,12 @@
 import React, { useState } from 'react';
 import { 
-  FaGithub, 
-  FaExternalLinkAlt, 
+  FaGithub,  
   FaEye, 
   FaTimes,
   FaChevronLeft,
   FaChevronRight,
   FaPlayCircle,
   FaDownload,
-  FaMobileAlt,
   FaRobot,
   FaHeartbeat,
   FaBus,
